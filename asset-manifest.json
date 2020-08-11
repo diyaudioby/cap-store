@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/cap-store/static/js/main.49b1a823.chunk.js",
+    "main.js.map": "/cap-store/static/js/main.49b1a823.chunk.js.map",
+    "runtime-main.js": "/cap-store/static/js/runtime-main.135f12b7.js",
+    "runtime-main.js.map": "/cap-store/static/js/runtime-main.135f12b7.js.map",
+    "static/css/2.fd3fe366.chunk.css": "/cap-store/static/css/2.fd3fe366.chunk.css",
+    "static/js/2.c31bcd16.chunk.js": "/cap-store/static/js/2.c31bcd16.chunk.js",
+    "static/js/2.c31bcd16.chunk.js.map": "/cap-store/static/js/2.c31bcd16.chunk.js.map",
+    "index.html": "/cap-store/index.html",
+    "precache-manifest.c602f5bcb85351f6ff4059ae2492cf65.js": "/cap-store/precache-manifest.c602f5bcb85351f6ff4059ae2492cf65.js",
+    "service-worker.js": "/cap-store/service-worker.js",
+    "static/css/2.fd3fe366.chunk.css.map": "/cap-store/static/css/2.fd3fe366.chunk.css.map",
+    "static/js/2.c31bcd16.chunk.js.LICENSE.txt": "/cap-store/static/js/2.c31bcd16.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.135f12b7.js",
+    "static/css/2.fd3fe366.chunk.css",
+    "static/js/2.c31bcd16.chunk.js",
+    "static/js/main.49b1a823.chunk.js"
+  ]
+}
